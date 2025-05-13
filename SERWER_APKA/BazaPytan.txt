@@ -1,0 +1,20 @@
+Jaka jest stolica Francji?;Marsylia;Lyon;Paryż;Nicea;C
+Jaka jest stolica Japonii?;Osaka;Tokio;Kioto;Hiroshima;B
+Jaka jest stolica Australii?;Sydney;Melbourne;Canberra;Perth;C
+Jaka jest stolica Kanady?;Toronto;Ottawa;Montreal;Vancouver;B
+Jaka jest stolica Brazylii?;Rio de Janeiro;São Paulo;Brasília;Salvador;C
+Jaka jest stolica Egiptu?;Kair;Aleksandria;Luksor;Asuan;A
+Jaka jest stolica Niemiec?;Monachium;Berlin;Hamburg;Frankfurt;B
+Jaka jest stolica Włoch?;Mediolan;Florencja;Rzym;Neapol;C
+Jaka jest stolica Hiszpanii?;Barcelona;Madryt;Walencja;Sewilla;B
+Jaka jest stolica Rosji?;Petersburg;Moskwa;Nowosybirsk;Jekaterynburg;B
+Jaka jest stolica Argentyny?;Córdoba;Rosario;Buenos Aires;Mendoza;C
+Jaka jest stolica Chin?;Szanghaj;Hongkong;Pekin;Kanton;C
+Jaka jest stolica Meksyku?;Monterrey;Guadalajara;Puebla;Meksyk (Miasto Meksyk);D
+Jaka jest stolica Turcji?;Stambuł;Ankara;Izmir;Antalya;B
+Jaka jest stolica Norwegii?;Bergen;Stavanger;Oslo;Tromsø;C
+Jaka jest stolica Grecji?;Ateny;Saloniki;Kreta;Patras;A
+Jaka jest stolica Indii?;Nowe Delhi;Bombaj;Kalkuta;Bangalore;A
+Jaka jest stolica Iranu?;Isfahan;Teheran;Shiraz;Tabriz;B
+Jaka jest stolica Korei Południowej?;Pusan;Inczon;Seul;Daegu;C
+Jaka jest stolica Ukrainy?;Charków;Odessa;Kijów;Lwów;C
